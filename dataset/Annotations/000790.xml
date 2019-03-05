@@ -1,0 +1,25 @@
+<annotation>
+    <folder>VOCType</folder>
+    <filename>000790.jpg</filename>
+    <source>
+        <database>VOC</database>
+    </source>
+    <size>
+        <width>936</width>
+        <height>537</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>window</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>746</xmin>
+            <ymin>12</ymin>
+            <xmax>922</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+</annotation>
